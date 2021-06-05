@@ -1,14 +1,6 @@
 # OWASP Top-10 - quickstart your security awareness
 
-This repo contains the code examples shared in my [DevConf.us 2020 talk](https://devconfus2020.sched.com/event/eb6835469f571956a331b8382b8ca0a9).
-
-Recordings:
-- [Pre-recorded talk](https://www.youtube.com/watch?v=Unf-U_hPpH4)
-- [DevConf.US recording](https://www.youtube.com/watch?v=6Z5hlgZQQt0)
-
-Slides:
-[SlideShare](https://www.slideshare.net/AllonMureinik/devconfus-2020-owasp-top-10-allon-mureinik)
-
+This repo contains the code examples I use to demo the OWASP Top-10
 ## Warning
 
 These demos contain intentionally vulnerable code.
@@ -24,7 +16,7 @@ Do not run any of them on a machine which can be accessed by external users.
 
 Clone the repository:
 ```
-git clone https://github.com/mureinik/owasp-top10-demo.git
+git clone https://github.com/iammelvink/owasp-top10-demo.git
 ```
 
 Install the dependencies:
